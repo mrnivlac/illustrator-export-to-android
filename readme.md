@@ -11,9 +11,9 @@
 ## How to use
 1. Select an output folder
 2. Select the sizes you want for Android (e.g. `mdpi`) or iOS
-3. Resize the artboards by inputing numbers for width and height
+3. Resize the artboards by inputing numbers for width and height  
 
-    Options for resizing:
+    Options for resizing:  
     * Leave the width blank to maintain aspect ratio while constraining height
     * Leave the height blank to maintain aspect ratio while constraining width
     * Leave both width & height blank to avoid resizing
