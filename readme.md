@@ -13,10 +13,10 @@
 2. Select the sizes you want for Android (e.g. `mdpi`) or iOS
 3. Resize the artboards by inputing numbers for width and height
 
-...Options for resizing:
-...* Leave the width blank to maintain aspect ratio while constraining height
-...* Leave the height blank to maintain aspect ratio while constraining width
-...* Leave both width & height blank to avoid resizing
-...* Fill in numbers for width and height to resize both
+    Options for resizing:
+    * Leave the width blank to maintain aspect ratio while constraining height
+    * Leave the height blank to maintain aspect ratio while constraining width
+    * Leave both width & height blank to avoid resizing
+    * Fill in numbers for width and height to resize both
 
 4. Press Export and wait for job to finish
